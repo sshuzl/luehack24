@@ -2,9 +2,7 @@
 
 ## Files
 
-- [key.txt](key.txt) contains the key used for encryption in hex
 - [libcrypto.py](libcrypto.py) is the original libcrypto provided to the contestants
-- [message.txt](message.txt) contains the plaintext messages sent
 - [extracted_ciphertexts.txt](extracted_ciphertexts.txt) contains the ciphertexts extracted from the network log (can be done with Wireshark)
 - [solve.py](solve.py) is a Python3 script solving the challenge. Use it like this:
 
